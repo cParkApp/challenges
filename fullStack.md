@@ -69,4 +69,4 @@ Those points are bonus and will be taken into account in the evaluation of your 
 
 ## Deliverable
 
-Send your git repo (link or ZIP file) to nicolas@cparkapp.com.
+Send your git repo (link or ZIP file) to nicolas@seety.co.
