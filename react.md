@@ -63,4 +63,4 @@ _Even if you do not know **ES6**, this should not scare you, it is easy to pick 
 
 ## Deliverable
 
-Send your git repo (link or ZIP file) to nicolas@cparkapp.com.
+Send your git repo (link or ZIP file) to nicolas [at] seety.co.
